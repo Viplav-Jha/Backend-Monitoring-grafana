@@ -1,0 +1,11 @@
+{
+  "name": "prod-server",
+  "version": "1.0.0",
+  "description": "Monitor servers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "viplav",
+  "license": "ISC"
+}
